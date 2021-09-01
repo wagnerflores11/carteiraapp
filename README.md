@@ -6,9 +6,8 @@
 Dashboard desenvolvido em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
 
 <div align="center" >
-  <img src="./docs/assets/minhacarteirapreview.gif">
+  <img src="./docs/assets/resposiveview.png">
 </div>
-
 
 
 
